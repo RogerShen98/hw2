@@ -1,2 +1,3 @@
 Hello World
-Hello, my name is “Liangjie Shen”
+Hello, my name is Liangjie Shen
+Hello, my name is Liangjie Shen and I am working on hw1
