@@ -1,3 +1,2 @@
-Hello World
-Hello, my name is Liangjie Shen
-Hello, my name is Liangjie Shen and I am working on hw1
+
+Hello, our names are Liangjie Shen and Tran Nguyen and we are working on hw5 together
